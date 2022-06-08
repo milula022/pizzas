@@ -1,0 +1,89 @@
+#logo{
+    width: 120px;
+    height: 120px;
+}
+header{
+    padding: 20px;
+    background-color: #4C5A7B;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+header img{
+    margin-left: 20px;
+    
+}
+header p{
+
+    margin: 0px;
+    color: aliceblue;
+}
+main{
+    background-color: #9198AB;
+    margin: 100px;
+    box-shadow: -2px -2px 26px 20px rgba(91,105,143,0.8);
+-webkit-box-shadow: -2px -2px 26px 20px rgba(91,105,143,0.8);
+-moz-box-shadow: -2px -2px 26px 20px rgba(91,105,143,0.8);
+    
+}
+.iconos{
+    width: 16px;
+    height: 16px;
+}
+ p{
+    font-family: 'Bebas Neue', cursive;
+}
+li{
+    display: inline;
+}
+footer{
+    text-align: center;
+    display: flex;
+    padding: 50px;
+    background-color: #c4c8d288;
+}
+.caja{
+    text-align: center;
+    width: 50px;
+    margin: 200px;
+    border-top: 40px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+}
+#pedir{
+    display: flex;
+    justify-content: center;
+    border: white solid 2px;
+}
+div{
+    margin: 15px;
+
+    
+    
+}
+
+#logo2{
+    width: 120px;
+    margin-left: 1280px;
+    padding-top: 120px;
+
+}
+
+.pedido{
+    width: 100px;
+    height: auto;
+}
+.cantpe{
+    width: 50px;
+}
+.botpe{
+    width: 80px;
+    height: 40px;
+    border-bottom: #4C5A7B solid 5px;
+    margin-left: 550px;
+
+}
